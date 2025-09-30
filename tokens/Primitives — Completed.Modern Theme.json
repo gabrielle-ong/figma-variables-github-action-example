@@ -103,7 +103,7 @@
       },
       "cherry": {
         "$type": "color",
-        "$value": "#fc5c71",
+        "$value": "#ff9eab",
         "$description": "",
         "$extensions": {
           "com.figma": {
